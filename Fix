@@ -2191,7 +2191,7 @@ if readfile("hexagon/autoload.txt") ~= "" and isfile("hexagon/configs/"..readfil
 	end
 end
 
-print("ReviveWare Loaded!")
+print("hexagon Loaded!")
 print("101 120 111 100 117 115") Have Fun :)
 
 Hint.Text = "ReviveWare | FREE VERSION TEST!"
