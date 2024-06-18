@@ -2197,3 +2197,4 @@ print("101 120 111 100 117 115") Have Fun :)
 Hint.Text = "ReviveWare | FREE VERSION TEST!"
 wait(1.5)
 Hint:Destroy()
+
